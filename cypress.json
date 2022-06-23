@@ -1,0 +1,11 @@
+{
+    "ignoreTestFiles": [
+        "**/1-getting-started/*",
+        "**/2-advanced-examples/*",
+        "**/firstTest.spec.js"
+    ],
+    "viewportHeight": 1080,
+    "viewportWidth": 1920,
+    "video": true,
+    "projectId": "heaerc"
+}
